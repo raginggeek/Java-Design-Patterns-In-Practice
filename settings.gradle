@@ -1,0 +1,6 @@
+rootProject.name = 'Java-Design-Patterns-In-Practice'
+include 'Observer-Pattern'
+include 'Singleton'
+include 'Proxy'
+include 'Decorator'
+
