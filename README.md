@@ -1,5 +1,5 @@
 # README
-##Purpose
+## Purpose
 The purpose of this repo is to display examples of various design patterns as developed for Java.
 The examples are developed with guidance from the APRESS book: Java Design Patterns. As
 more patterns are experimented with and examples made, other books may be
